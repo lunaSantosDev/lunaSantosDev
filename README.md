@@ -2,7 +2,7 @@
 
 **`Suporte Técnico | Desenvolvedora Full Stack`**
 
-Me chamo Estela Luna dos Santos Oliveira, tenho 20 anos e sou natural de Viçosa/AL, residindo atualmente em Maceió/AL. Concluí o ensino médio no IFAL, com o curso técnico em Informática para Internet. Atualmente, estou cursando Sistemas para Internet na UNCISAL. Sou apaixonada por tecnologia e atuo como Auxiliar de TI em uma empresa do ramo de engenharia civil, onde trabalho com suporte técnico, sistemas ERP, redes, manutenção de computadores e administração de ferramentas do Microsoft 365. Também tenho interesse em desenvolvimento de software, bancos de dados, análise de sistemas e computação em nuvem, áreas nas quais busco constantemente aprimorar meus conhecimentos.
+Me chamo Estela Luna dos Santos Oliveira, tenho 20 anos e sou natural de Viçosa/AL, residindo atualmente em Maceió/AL. Concluí o ensino médio no IFAL, com o curso Técnico em Informática para Internet. Atualmente, estou cursando Sistemas para Internet na UNCISAL. Sou apaixonada por tecnologia e atuo como Auxiliar de TI em uma empresa do ramo de engenharia civil, onde trabalho com suporte técnico, sistemas ERP, redes, manutenção de computadores e administração de ferramentas do Microsoft 365. Também tenho interesse em desenvolvimento de software, bancos de dados, análise de sistemas e computação em nuvem, áreas nas quais busco constantemente aprimorar meus conhecimentos.
 
 ---
 
