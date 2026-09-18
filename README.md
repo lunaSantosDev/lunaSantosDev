@@ -40,6 +40,14 @@ Me chamo Estela Luna dos Santos Oliveira, tenho 20 anos e sou natural de Viçosa
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/java-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -57,14 +65,6 @@ Me chamo Estela Luna dos Santos Oliveira, tenho 20 anos e sou natural de Viçosa
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
